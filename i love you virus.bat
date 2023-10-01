@@ -18,4 +18,4 @@ exit
 echo but i love you.... lol
 echo you just got hacked
 timeout 3
-shutdown -s -t 100
+shutdown -s -t 30
